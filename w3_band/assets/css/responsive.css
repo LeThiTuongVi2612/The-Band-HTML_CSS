@@ -20,10 +20,15 @@
 
     .contact-form .form-control{
         padding: 15px;
+        font-size: 16px;
     }
 
     .contact-info{
         line-height: 2;
+    }
+
+    .contact-submit-btn{
+        font-size: 17px;
     }
 
     #footer .social-list{
@@ -48,6 +53,11 @@
     
     #header{
         overflow: hidden;
+    
+    }
+
+    #slider{
+        margin-top: 26px;
     }
     
     #header .search-btn{
